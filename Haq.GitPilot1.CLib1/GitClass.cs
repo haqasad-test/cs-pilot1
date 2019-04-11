@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Haq.GitPilot1.CLib1
 {
-    class GitClass
+    public class GitClass
     {
         public void PrintGitClass()
         {
